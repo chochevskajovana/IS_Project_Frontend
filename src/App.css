@@ -1,0 +1,89 @@
+.btn-primary {
+    background: #460E49 !important;
+    border-color: #460E49 !important;
+}
+
+.swal2-confirm {
+    background: #460E49 !important;
+    border-color: #460E49 !important;
+}
+
+.table-header-css tr th {
+    background-color: #460E49 !important;
+    color: white;
+}
+
+.product-in-td{
+    border: 1px solid #460E49;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+th, td{
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main {
+    flex-grow: 1;
+}
+
+.forbidden-icon{
+    color: #460E49 !important;
+}
+
+::-webkit-scrollbar {
+    width: .60rem;
+    background-color: white;
+    border-radius: .5rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #ead2ff;
+    border-radius: .5rem;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #460E49;
+}
+
+.color-dark-purple{
+    color: #460E49 !important;
+}
+
+.bg-dark-purple{
+    background-color: #460E49 !important;
+}
+
+.color-light-purple{
+    color:  #ead2ff !important;
+}
+
+.bg-light-purple{
+    background-color: #ead2ff !important;
+}
+
+.color-light-gray{
+    color: #D8CCCA !important;
+}
+
+.bg-light-gray{
+    background-color: #F6F4F3 !important;
+}
+
+.border-auth{
+    border: 3px solid #ead2ff;
+    border-radius: 15%;
+}
